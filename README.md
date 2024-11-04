@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @subikshashree
-- 👀 I’m interested in C language programming
+- 👋 Hi, I’m Subiksha Shree S
+- 👀 I’m interested in developing a program in C and Python
 - 🌱 I’m currently persuing my bachelors degree at Bannari Amman Institute of Technology
-- 💞️ I’m looking to collaborate on a project 
-- 📫 Reach me through linkedin Subiksha shree S
+
 
